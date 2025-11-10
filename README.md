@@ -1,11 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B35&width=435&lines=Hey+there!+👋+I'm+Guy;DevOps+Infrastructure+Engineer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 ```bash
-┌─ GbaGuy@DevOps ~
-├─ $ whoami
-│  └─ DevOps Infrastructure Engineer
-│
-└─ $ cat skills.txt
+$ bash profile.sh
+> Welcome to GbaGuy's DevOps Terminal
+> Loading skills...
 ```
 
 <img align="left" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -23,13 +21,15 @@
 <br />
 
 ```bash
-├─ $ npm run github-stats
+$ npm run github-stats
+> Fetching GitHub analytics...
 ```
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&icon_color=FF6B35)](https://github.com/GbaGuy)
 
 ```bash
-├─ $ contact --init
+$ contact --init
+> Initializing contact information...
 ```
 
 <img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -40,5 +40,6 @@
 <br />
 
 ```bash
-└─ $ echo "⚡ Always Learning • Always Building 🚀"
+$ echo "⚡ Always Learning • Always Building 🚀"
+> Terminal closed successfully
 ```
