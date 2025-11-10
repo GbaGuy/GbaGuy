@@ -29,13 +29,13 @@ $ npm run github-stats
 > Fetching GitHub analytics...
 ```
 
-<div align="center">
-
-<img height="120" src="https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&icon_color=FF6B35" />
-<img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbaGuy&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35" />
-<img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=GbaGuy&theme=dark&background=0d1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35" />
-
-</div>
+<table align="center">
+  <tr>
+    <td><img height="150" src="https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&icon_color=FF6B35" /></td>
+    <td><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbaGuy&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35" /></td>
+    <td><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=GbaGuy&theme=dark&background=0d1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35" /></td>
+  </tr>
+</table>
 
 ```bash
 $ contact --init
@@ -52,5 +52,5 @@ $ contact --init
 
 ```bash
 $ echo "⚡ Always Learning • Always Building 🚀"
-> Terminal closed successfully
+> Terminal closed successful
 ```
