@@ -10,6 +10,7 @@ Executing bash profile.sh...
 Loading skills...
 ```
 <div align="center">
+  
 ![Docker       ](https://img.shields.io/badge/Docker-1?logo=docker&logoColor=white&labelColor=2496ED&color=2496ED)
 ![Kubernetes   ](https://img.shields.io/badge/Kubernetes-1?logo=kubernetes&logoColor=white&labelColor=326CE5&color=326CE5)
 ![AI           ](https://img.shields.io/badge/AI-1?logo=openai&logoColor=black&labelColor=FFB81C&color=FFB81C)
