@@ -2,14 +2,13 @@
 ```bash
 Initializing system components...
 Mounting file systems...
-Session started
+Session started!
 ```
 ```bash
 Executing bash profile.sh...
 Loading skills...
 ```
 <div align="center">
-
 ![Docker       ](https://img.shields.io/badge/Docker-1?logo=docker&logoColor=white&labelColor=2496ED&color=2496ED)
 ![Kubernetes   ](https://img.shields.io/badge/Kubernetes-1?logo=kubernetes&logoColor=white&labelColor=326CE5&color=326CE5)
 ![AI           ](https://img.shields.io/badge/AI-1?logo=openai&logoColor=black&labelColor=FFB81C&color=FFB81C)
@@ -23,14 +22,12 @@ Loading skills...
 ![Git          ](https://img.shields.io/badge/Git-1?logo=git&logoColor=white&labelColor=F1502F&color=F1502F)
 ![GitHub       ](https://img.shields.io/badge/GitHub-1?logo=github&logoColor=white&labelColor=181717&color=181717)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1?logo=githubactions&logoColor=white&labelColor=2088FF&color=2088FF)
-
 </div>
 
 ```bash
 $ npm run github-stats
 > Fetching GitHub analytics...
 ```
-
 <table align="center" style="border-spacing: 20px;">
   <tr>
     <td valign="top">
@@ -51,7 +48,6 @@ $ contact --init
 ```
 
 <div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guyblum)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gba_guy)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blumguy111@gmail.com)
@@ -60,5 +56,5 @@ $ contact --init
 
 ```bash
 $ echo "When in Doubt, Container It Out"
-> Terminal closed successfully
+> session terminated
 ```
