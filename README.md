@@ -52,6 +52,7 @@ function getTechStack() {
 </table>
 
 ```javascript
+  return techStack;
 }
 ```
 
@@ -64,6 +65,7 @@ function getGitHubAnalytics() {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GbaGuy&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&border_color=FF6B35)
 
 ```javascript
+  return analytics;
 }
 ```
 
@@ -92,6 +94,7 @@ function connectWithMe() {
 </table>
 
 ```javascript
+  return contactInfo;
 }
 ```
 
@@ -99,4 +102,4 @@ function connectWithMe() {
 $ echo "⚡ Always Learning • Always Building • Always Growing 🚀"
 ```
 
-*Last Updated: 2025-11-10 13:31:28*
+*Last Updated: 2025-11-10 13:33:07*
