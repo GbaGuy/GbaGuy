@@ -6,9 +6,15 @@
 │  └─ DevOps Infrastructure Engineer
 │
 ├─ $ cat skills.txt
-│  ├─ Docker      Kubernetes     AI
-│  ├─ Jenkins     Linux          Bash
-│  └─ Python      React          API
+│  ├─ ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+│  ├─ ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+│  ├─ ![AI](https://img.shields.io/badge/AI-FFB81C?style=for-the-badge&logo=openai&logoColor=black)
+│  ├─ ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+│  ├─ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+│  ├─ ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+│  ├─ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+│  ├─ ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+│  └─ ![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 │
 ├─ $ npm run github-stats
 ```
@@ -18,9 +24,9 @@
 ```bash
 │
 ├─ $ contact --init
-│  ├─ LinkedIn    →  https://www.linkedin.com/in/guyblum
-│  ├─ Discord     →  https://discord.com/users/gba_guy
-│  └─ Email       →  blumguy111@gmail.com
+│  ├─ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guyblum)
+│  ├─ [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gba_guy)
+│  └─ [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blumguy111@gmail.com)
 │
 └─ $ echo "⚡ Always Learning • Always Building 🚀"
 ```
