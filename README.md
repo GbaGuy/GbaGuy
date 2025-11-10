@@ -54,6 +54,4 @@ $ contact --init
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blumguy111@gmail.com)
 
 </div>
-
-```bash
 [![Text SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=🐳+When+in+Doubt,+Container+It+Out+🐳)](https://git.io/typing-svg)
