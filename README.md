@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FF6B35&width=435&lines=Hey+there!+👋+I'm+Guy;DevOps+Infrastructure+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FF6B35&width=435&lines=Hey+there!+👋+I'm+Guy;DevOps+Infrastructure+student)](https://git.io/typing-svg)
 
 ```bash
 $ bash profile.sh
