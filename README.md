@@ -1,18 +1,18 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8C00&width=435&lines=Hey+there!+👋+I'm+Guy;DevOps+Infrastructure+Engineer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B35&width=435&lines=Hey+there!+👋+I'm+Guy;DevOps+Infrastructure+Engineer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 ```javascript
-🟠 const gbaGuy = {
+const gbaGuy = {
   name: "Guy",
   role: "DevOps Infrastructure Engineer",
   location: "Israel",
   learning: ["Kubernetes", "Docker", "CI/CD Automation"],
   passion: "Scaling Infrastructure Solutions",
   motto: "Always Learning • Always Building"
-🟠 };
+};
 ```
 
 ```javascript
-🟠 function getTechStack() {
+function getTechStack() {
 ```
 
 <table>
@@ -52,23 +52,23 @@
 </table>
 
 ```javascript
-🟠 }
+}
 ```
 
 ```javascript
-🟠 function getGitHubAnalytics() {
+function getGitHubAnalytics() {
 ```
 
-[![GbaGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF8C00&text_color=FF8C00&icon_color=FF8C00&border_color=FF8C00)](https://github.com/GbaGuy)
+[![GbaGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&icon_color=FF6B35&border_color=FF6B35)](https://github.com/GbaGuy)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GbaGuy&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF8C00&text_color=FF8C00&border_color=FF8C00)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GbaGuy&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&border_color=FF6B35)
 
 ```javascript
-🟠 }
+}
 ```
 
 ```javascript
-🟠 function connectWithMe() {
+function connectWithMe() {
 ```
 
 <table>
@@ -92,11 +92,11 @@
 </table>
 
 ```javascript
-🟠 }
+}
 ```
 
 ```bash
 $ echo "⚡ Always Learning • Always Building • Always Growing 🚀"
 ```
 
-*Last Updated: 2025-11-10 13:29:33*
+*Last Updated: 2025-11-10 13:31:28*
