@@ -1,6 +1,4 @@
-# Hey there! 👋 I'm Guy
-
-## 🚀 DevOps Infrastructure Engineer
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there!+👋+I'm+Guy;DevOps+Infrastructure+Engineer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 Learning and building scalable infrastructure solutions.
 
