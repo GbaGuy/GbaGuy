@@ -56,6 +56,7 @@ $ contact --init
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blumguy111@gmail.com)
 
 </div>
+
 ```bash
 $ echo "When in Doubt, Container It Out"
 > session terminated
