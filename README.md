@@ -1,9 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FF6B35&width=435&lines=Hey+there!+👋+I'm+Guy;DevOps+Infrastructure+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=25&duration=2500&pause=1000&color=F73C0C&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Guy;DevOps+Infrastructure+Student)](https://git.io/typing-svg)
 ```bash
 Initializing system components...
 Mounting file systems...
 Session started!
 ```
+
 ```bash
 Executing bash profile.sh...
 Loading skills...
@@ -28,6 +29,7 @@ Loading skills...
 $ npm run github-stats
 > Fetching GitHub analytics...
 ```
+
 <table align="center" style="border-spacing: 20px;">
   <tr>
     <td valign="top">
