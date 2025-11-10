@@ -34,13 +34,13 @@ $ npm run github-stats
 <table align="center" style="border-spacing: 20px;">
   <tr>
     <td valign="top">
-      <img width="350" height="250" src="https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=merko&hide_border=false&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&icon_color=FF6B35&border_color=FF6B35" />
+      <img width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=merko&hide_border=false&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&icon_color=FF6B35&border_color=FF6B35" />
     </td>
     <td valign="top">
-      <img width="350" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbaGuy&layout=compact&theme=merko&hide_border=false&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&border_color=FF6B35" />
+      <img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbaGuy&layout=compact&theme=merko&hide_border=false&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&border_color=FF6B35" />
     </td>
     <td valign="top">
-      <img width="350" height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=GbaGuy&theme=dark&background=0d1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&border=FF6B35" />
+      <img width="400" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=GbaGuy&theme=dark&background=0d1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&border=FF6B35" />
     </td>
   </tr>
 </table>
