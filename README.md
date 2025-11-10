@@ -13,7 +13,7 @@ const gbaGuy = {
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 ```bash
 $ skills.list()
@@ -27,7 +27,7 @@ $ skills.list()
 
 ---
 
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 ```bash
 $ git log --stat --oneline
@@ -37,7 +37,7 @@ $ git log --stat --oneline
 
 ---
 
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 ```bash
 $ contact.init()
@@ -53,4 +53,4 @@ $ contact.init()
 $ echo "⚡ Always Learning • Always Building • Always Growing 🚀"
 ```
 
-*Last Updated: 2025-11-10 13:20:41*
+*Last Updated: 2025-11-10 13:21:54*
