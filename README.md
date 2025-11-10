@@ -11,10 +11,8 @@ const gbaGuy = {
 };
 ```
 
-🛠️ Tech Stack
-
-```bash
-$ skills.list()
+```javascript
+function getTechStack() {
 ```
 
 <table>
@@ -53,18 +51,22 @@ $ skills.list()
   </tr>
 </table>
 
-📊 GitHub Analytics
+```javascript
+}
+```
 
-```bash
-$ git log --stat --oneline
+```javascript
+function getGitHubAnalytics() {
 ```
 
 [![GbaGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6b6b&text_color=efefef&icon_color=ff6b6b)](https://github.com/GbaGuy)
 
-🌐 Connect With Me
+```javascript
+}
+```
 
-```bash
-$ contact.init()
+```javascript
+function connectWithMe() {
 ```
 
 <table>
@@ -87,8 +89,12 @@ $ contact.init()
   </tr>
 </table>
 
+```javascript
+}
+```
+
 ```bash
 $ echo "⚡ Always Learning • Always Building • Always Growing 🚀"
 ```
 
-*Last Updated: 2025-11-10 13:24:56*
+*Last Updated: 2025-11-10 13:25:56*
