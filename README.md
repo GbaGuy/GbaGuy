@@ -1,10 +1,10 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B35&width=435&lines=Hey+there!+👋+I'm+Guy;DevOps+Infrastructure+Engineer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
-
 ```bash
 $ bash profile.sh
 > Welcome to GbaGuy's DevOps Terminal
 > Loading skills...
 ```
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B35&width=435&lines=Hey+there!+👋+I'm+Guy;DevOps+Infrastructure+Engineer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 <img align="left" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
