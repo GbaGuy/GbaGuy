@@ -2,7 +2,6 @@
 
 ```bash
 $ bash profile.sh
-> Welcome to GbaGuy's DevOps Terminal
 > Loading skills...
 ```
 
@@ -57,6 +56,4 @@ $ contact --init
 </div>
 
 ```bash
-$ echo "⚡ Always Learning • Always Building 🚀"
-> Terminal closed successfully
-```
+$ echo "[![Text SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=🐳+When+in+Doubt,+Container+It+Out+🐳;)](https://git.io/typing-svg)"
