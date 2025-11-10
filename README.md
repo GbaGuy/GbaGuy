@@ -1,18 +1,25 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there!+👋+I'm+Guy;DevOps+Infrastructure+Engineer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
-<div align="center">
-
-### 🚀 Scaling Infrastructure Solutions
-
-*Learning DevOps, Building the Future*
-
-</div>
+```javascript
+const gbaGuy = {
+  name: "Guy",
+  role: "DevOps Infrastructure Engineer",
+  location: "Israel",
+  learning: ["Kubernetes", "Docker", "CI/CD Automation"],
+  passion: "Scaling Infrastructure Solutions",
+  motto: "Always Learning • Always Building"
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+```bash
+$ skills.list()
+```
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -34,15 +41,23 @@
 
 <div align="center">
 
+```bash
+$ git log --stat --oneline
+```
+
 [![GbaGuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6b6b&text_color=efefef&icon_color=ff6b6b)](https://github.com/GbaGuy)
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
+
+```bash
+$ contact.init()
+```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guyblum)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gba_guy)
@@ -54,8 +69,10 @@
 
 <div align="center">
 
-### ⚡ Always Learning • Always Building • Always Growing 🚀
+```bash
+$ echo "⚡ Always Learning • Always Building • Always Growing 🚀"
+```
 
-*Last Updated: November 10, 2025*
+*Last Updated: 2025-11-10 13:19:26*
 
 </div>
