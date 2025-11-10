@@ -50,11 +50,12 @@ $ contact --init
 ```
 
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guyblum)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gba_guy)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blumguy111@gmail.com)
-</div>
 
+</div>
 ```bash
 $ echo "When in Doubt, Container It Out"
 > session terminated
