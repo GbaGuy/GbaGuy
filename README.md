@@ -29,7 +29,35 @@ $ npm run github-stats
 > Fetching GitHub analytics...
 ```
 
+<div align="center">
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&icon_color=FF6B35)](https://github.com/GbaGuy)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GbaGuy&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35)](https://github.com/GbaGuy)
+
+</div>
+
+```bash
+$ github-streak --init
+> Calculating contribution streak...
+```
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GbaGuy&theme=dark&background=0d1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35)](https://github.com/GbaGuy)
+
+</div>
+
+```bash
+$ activity-graph --generate
+> Building activity timeline...
+```
+
+<div align="center">
+
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=GbaGuy&theme=github-dark&bg_color=0d1117&color=FF6B35&line=FF6B35&point=FF6B35)](https://github.com/GbaGuy)
+
+</div>
 
 ```bash
 $ contact --init
