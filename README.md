@@ -29,11 +29,17 @@ $ npm run github-stats
 > Fetching GitHub analytics...
 ```
 
-<table align="center">
+<table align="center" style="border-spacing: 20px;">
   <tr>
-    <td><img height="150" src="https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&icon_color=FF6B35" /></td>
-    <td><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbaGuy&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35" /></td>
-    <td><img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=GbaGuy&theme=dark&background=0d1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35" /></td>
+    <td valign="top">
+      <img width="300" height="200" src="https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=merko&hide_border=false&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&icon_color=FF6B35&border_color=FF6B35" />
+    </td>
+    <td valign="top">
+      <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbaGuy&layout=compact&theme=merko&hide_border=false&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&border_color=FF6B35" />
+    </td>
+    <td valign="top">
+      <img width="300" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=GbaGuy&theme=dark&background=0d1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&border=FF6B35" />
+    </td>
   </tr>
 </table>
 
@@ -52,5 +58,5 @@ $ contact --init
 
 ```bash
 $ echo "⚡ Always Learning • Always Building 🚀"
-> Terminal closed successful
+> Terminal closed successfully
 ```
