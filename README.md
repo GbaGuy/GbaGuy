@@ -2,7 +2,6 @@
 
 ```bash
 $ bash profile.sh
-> Welcome to GbaGuy's DevOps Terminal
 > Loading skills...
 ```
 
@@ -41,5 +40,4 @@ $ contact --init
 
 ```bash
 $ echo "⚡ Always Learning • Always Building 🚀"
-> Terminal closed successfully
 ```
