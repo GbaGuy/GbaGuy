@@ -7,7 +7,7 @@ Session started!
 Executing bash profile.sh...
 Loading skills...
 ```
-<div align="center">
+<div align="left">
   
 ![Docker       ](https://img.shields.io/badge/Docker-1?logo=docker&logoColor=white&labelColor=2496ED&color=2496ED)
 ![Kubernetes   ](https://img.shields.io/badge/Kubernetes-1?logo=kubernetes&logoColor=white&labelColor=326CE5&color=326CE5)
@@ -29,7 +29,7 @@ $ npm run github-stats
 > Fetching GitHub analytics...
 ```
 
-<table align="center" style="border-spacing: 20px;">
+<table align="left" style="border-spacing: 20px;">
   <tr>
     <td valign="top">
       <img width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=merko&hide_border=false&bg_color=0d1117&title_color=FF6B35&text_color=FF6B35&icon_color=FF6B35&border_color=FF6B35" />
@@ -48,7 +48,7 @@ $ contact --init
 > Initializing contact information...
 ```
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guyblum)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gba_guy)
