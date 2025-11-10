@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=25&duration=2500&pause=1000&color=F73C0C&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Guy;DevOps+Infrastructure+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=25&duration=2500&pause=1000&color=F73C0C&center=false&vCenter=false&width=500&lines=Hey+there%2C+I'm+Guy;DevOps+Infrastructure+Student)](https://git.io/typing-svg)
 
 ```bash
 Initializing system components...
