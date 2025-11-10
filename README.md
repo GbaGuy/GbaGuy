@@ -57,6 +57,6 @@ $ contact --init
 </div>
 
 ```bash
-$ echo "⚡ Always Learning • Always Building 🚀"
+$ echo "When in Doubt, Container It Out"
 > Terminal closed successfully
 ```
