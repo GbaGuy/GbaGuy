@@ -17,7 +17,6 @@ const gbaGuy = {
 $ skills.list()
 ```
 
-| | | |
 |--|--|--|
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![AI](https://img.shields.io/badge/AI-FFB81C?style=for-the-badge&logo=openai&logoColor=black) |
 | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
@@ -38,7 +37,6 @@ $ git log --stat --oneline
 $ contact.init()
 ```
 
-| | | |
 |--|--|--|
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guyblum) | [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gba_guy) | [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blumguy111@gmail.com) |
 
@@ -47,5 +45,3 @@ $ contact.init()
 ```bash
 $ echo "⚡ Always Learning • Always Building • Always Growing 🚀"
 ```
-
-*Last Updated: 2025-11-10 13:21:54*
