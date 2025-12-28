@@ -26,9 +26,8 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/GbaGuy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=GbaGuy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=GbaGuy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
 ###
