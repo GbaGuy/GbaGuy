@@ -25,14 +25,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GbaGuy&theme=dracula&hide_border=false" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GbaGuy&show_icons=true&theme=dracula" height="180" alt="stats graph"  />
 </div>
