@@ -3,31 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="60" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="60" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="60" alt="grafana logo"  />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,git,github,gitlab" height="70" alt="devops tools"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,terraform,ansible,aws,prometheus,grafana" height="70" alt="infrastructure tools"  />
 </div>
 
 ###
@@ -60,13 +42,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/GbaGuy/GbaGuy/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GbaGuy/GbaGuy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GbaGuy/GbaGuy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GbaGuy/GbaGuy/output/github-contribution-grid-snake.svg">
-</picture>
 
 ###
