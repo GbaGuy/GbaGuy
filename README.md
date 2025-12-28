@@ -34,18 +34,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GbaGuy&theme=dracula&row=1&column=7" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GbaGuy&show_icons=true&theme=dracula" height="180" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GbaGuy&layout=compact&theme=dracula&langs_count=8" height="180" alt="languages graph"  />
 </div>
 
