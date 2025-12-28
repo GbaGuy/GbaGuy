@@ -26,7 +26,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 </p>
 
 ###
