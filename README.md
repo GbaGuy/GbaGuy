@@ -26,14 +26,7 @@
 ###
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GbaGuy&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</p>
-
-###
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbaGuy&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ###
