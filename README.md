@@ -15,7 +15,7 @@ DevOps & Infrastructure Engineer passionate about cloud-native technologies and 
 
 ## � GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=dark)
 
 ## 🎮 Contribution Graph
 
