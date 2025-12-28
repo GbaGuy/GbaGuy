@@ -25,21 +25,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GbaGuy&theme=dracula&hide_border=false" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GbaGuy&show_icons=true&theme=dracula" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GbaGuy&layout=compact&theme=dracula&langs_count=8" height="180" alt="languages graph"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/GbaGuy/GbaGuy/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
 </div>
