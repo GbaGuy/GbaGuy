@@ -29,6 +29,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GbaGuy&theme=dracula&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=GbaGuy&theme=dracula&no-frame=false&row=1&column=6" height="150" alt="trophy graph"  />
 </div>
 
 ###
