@@ -26,6 +26,12 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=radical&count_private=true" width="400" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/GbaGuy/GbaGuy/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
 </div>
 
