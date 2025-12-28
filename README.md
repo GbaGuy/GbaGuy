@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # 👋 Hi, I'm GbaGuy
 
@@ -78,6 +78,3 @@
   </a>
 </p>
 
-<p align="center">
-  <i>"Automate everything. Monitor everything.  Break nothing."</i> 🚀
-</p>
