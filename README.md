@@ -35,7 +35,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GbaGuy&show_icons=true&theme=dracula" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GbaGuy&layout=compact&theme=dracula&langs_count=8" height="180" alt="languages graph"  />
 </div>
 
 ###
