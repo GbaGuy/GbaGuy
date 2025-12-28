@@ -32,7 +32,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GbaGuy/GbaGuy/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
+  <img src="https://raw.githubusercontent.com/GbaGuy/GbaGuy/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph" />
 </div>
 
 <br>
