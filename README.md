@@ -231,12 +231,4 @@
 
 <div align="center">
 
-### 🤝 Let's collaborate on infrastructure that scales!
-
-**[💌 Email Me](mailto:blumguy111@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/guyblum/) • [📂 GitHub](https://github.com/GbaGuy)**
-
-<br />
-
-**⚡ Always learning • Always automating • Always improving**
-
 </div>
