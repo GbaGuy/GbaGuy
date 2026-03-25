@@ -119,28 +119,28 @@
 <div align="center">
 
 #### 🐋 Container & Orchestration
-[![Docker](https://skillicons.dev/icons?i=docker)](/)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](/)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 
 #### ☁️ Infrastructure & Cloud
-[![Terraform](https://skillicons.dev/icons?i=terraform)](/)
-[![Ansible](https://skillicons.dev/icons?i=ansible)](/)
-[![AWS](https://skillicons.dev/icons?i=aws)](/)
+![Terraform](https://skillicons.dev/icons?i=terraform)
+![Ansible](https://skillicons.dev/icons?i=ansible)
+![AWS](https://skillicons.dev/icons?i=aws)
 
 #### 🔄 CI/CD & Version Control
-[![GitHub](https://skillicons.dev/icons?i=github)](/)
-[![GitLab](https://skillicons.dev/icons?i=gitlab)](/)
-[![Jenkins](https://skillicons.dev/icons?i=jenkins)](/)
+![GitHub](https://skillicons.dev/icons?i=github)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
 
 #### 📈 Monitoring & Observability
-[![Prometheus](https://skillicons.dev/icons?i=prometheus)](/)
-[![Grafana](https://skillicons.dev/icons?i=grafana)](/)
+![Prometheus](https://skillicons.dev/icons?i=prometheus)
+![Grafana](https://skillicons.dev/icons?i=grafana)
 
 #### 💻 Languages & OS
-[![Bash](https://skillicons.dev/icons?i=bash)(/)
-[![Python](https://skillicons.dev/icons?i=python)(/)
-[![Linux](https://skillicons.dev/icons?i=linux)(/)
-[![Git](https://skillicons.dev/icons?i=git)(/)
+![Bash](https://skillicons.dev/icons?i=bash)
+![Python](https://skillicons.dev/icons?i=python)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
 
 </div>
 
