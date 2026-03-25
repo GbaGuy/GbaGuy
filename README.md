@@ -37,8 +37,6 @@
 - 📊 **Observability** — Metrics, logs, and insights that matter
 - 🛡️ **DevOps Culture** — Building bridges between development and operations
 - 📚 **Currently Learning**: Advanced K8s patterns, eBPF monitoring, cost optimization
-- 🎯 **2025 Goal**: Zero-downtime infrastructure deployment at scale
-
 <br />
 
 ---
