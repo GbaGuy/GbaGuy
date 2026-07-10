@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="60" viewBox="0 0 900 60">
+  <rect x="0" y="0" width="900" height="60" fill="#1a1b27"/>
+  <line x1="0.5" y1="0" x2="0.5" y2="60" stroke="#3b4261"/>
+  <line x1="899.5" y1="0" x2="899.5" y2="60" stroke="#3b4261"/>
+  <g font-family="'Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="18" font-weight="600" text-anchor="middle">
+    <g opacity="0">
+      <animate attributeName="opacity" dur="12s" begin="0s" repeatCount="indefinite" keyTimes="0;0.017;0.21;0.25;1" values="0;1;1;0;0"/>
+      <text x="450" y="37" fill="#7aa2f7">Building resilient, cloud-native infrastructure</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" dur="12s" begin="3s" repeatCount="indefinite" keyTimes="0;0.017;0.21;0.25;1" values="0;1;1;0;0"/>
+      <text x="450" y="37" fill="#9ece6a">Everything as Code — Terraform · Ansible · CI/CD</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" dur="12s" begin="6s" repeatCount="indefinite" keyTimes="0;0.017;0.21;0.25;1" values="0;1;1;0;0"/>
+      <text x="450" y="37" fill="#bb9af7">Automate the boring. Monitor the rest.</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" dur="12s" begin="9s" repeatCount="indefinite" keyTimes="0;0.017;0.21;0.25;1" values="0;1;1;0;0"/>
+      <text x="450" y="37" fill="#7dcfff">Chasing 99.99% uptime</text>
+    </g>
+  </g>
+</svg>

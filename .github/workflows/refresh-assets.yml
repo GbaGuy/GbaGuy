@@ -1,0 +1,39 @@
+name: Refresh terminal assets
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: rebuild term-stack.svg from skillicons.dev
+        run: |
+          curl -fsSL "https://skillicons.dev/icons?i=kubernetes,docker,aws,terraform,ansible,githubactions,gitlab,jenkins,bash,py,linux,git&perLine=12" -o /tmp/icons.svg
+          # bail out if skillicons changed its output format, rather than committing a broken strip
+          grep -q '<svg width="666.75" height="48" ' /tmp/icons.svg
+          sed -i 's|<svg width="666.75" height="48" |<svg x="116.5" y="20" width="666.75" height="48" |' /tmp/icons.svg
+          {
+            echo '<svg xmlns="http://www.w3.org/2000/svg" width="900" height="88" viewBox="0 0 900 88">'
+            echo '  <rect x="0" y="0" width="900" height="88" fill="#1a1b27"/>'
+            echo '  <line x1="0.5" y1="0" x2="0.5" y2="88" stroke="#3b4261"/>'
+            echo '  <line x1="899.5" y1="0" x2="899.5" y2="88" stroke="#3b4261"/>'
+            cat /tmp/icons.svg
+            echo '</svg>'
+          } > assets/term-stack.svg
+
+      - name: commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/term-stack.svg
+          git diff --cached --quiet || { git commit -m "chore: refresh terminal stack icons"; git push; }

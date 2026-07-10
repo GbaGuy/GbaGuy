@@ -22,6 +22,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           dark_mode: true
 
+      - name: retheme background to match terminal (Tokyo Night)
+        run: sed -i 's/fill="#0d1117"/fill="#1a1b27"/g' dist/*.svg
+
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
