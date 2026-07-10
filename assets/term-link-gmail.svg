@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="56" viewBox="0 0 300 56">
+  <rect x="0" y="0" width="300" height="56" fill="#1a1b27"/>
+  <g font-family="'Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',monospace" text-anchor="middle">
+    <text x="150" y="25" font-size="14" font-weight="bold" fill="#f7768e">» Email</text>
+    <text x="150" y="44" font-size="11" fill="#565f89">blumguy111@gmail.com</text>
+  </g>
+</svg>
