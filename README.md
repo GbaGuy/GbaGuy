@@ -1,234 +1,44 @@
-# 👋 Hey there, I'm Guy Blum
-
-### 🚀 DevOps Engineer | Infrastructure Architect | Cloud Specialist
-
 <div align="center">
 
-**Building scalable, resilient infrastructure and automating everything in between.**
+<!-- 1 ▸ Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:16161e,50:414868,100:7aa2f7&height=180&section=header&text=guy%40blum&fontSize=44&fontColor=c0caf5&fontAlignY=32&animation=fadeIn&desc=DevOps%20Engineer%20%C2%B7%20Infrastructure%20Architect&descSize=18&descAlignY=54)
 
-<br />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=620&height=45&lines=Building+resilient%2C+cloud-native+infrastructure+%E2%98%81%EF%B8%8F;Everything+as+Code+%E2%80%94+Terraform+%C2%B7+Ansible+%C2%B7+CI%2FCD;Automate+the+boring.+Monitor+the+rest.;Chasing+99.99%25+uptime+%F0%9F%8E%AF)](https://github.com/GbaGuy)
+
+<!-- 2 ▸ About -->
+## 💻 ~/whoami
+
+<img src="./assets/terminal.svg" width="800" alt="neofetch — guy@blum · DevOps Engineer · Infrastructure Architect · Cloud infra, Automation, Observability, Security · blumguy111@gmail.com"/>
+
+<!-- 3 ▸ Connect -->
+## 📫 ~/connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guyblum/)
-&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blumguy111@gmail.com)
-&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GbaGuy)
+![Profile Views](https://komarev.com/ghpvc/?username=GbaGuy&style=for-the-badge&color=7aa2f7&label=VISITORS)
 
-<br />
+<!-- 4 ▸ Stack -->
+## 🧰 ~/stack
 
-![Followers](https://img.shields.io/github/followers/GbaGuy?style=social&label=Follow)
-&nbsp;&nbsp;
-![Stars](https://img.shields.io/github/stars/GbaGuy?style=social&label=Stars)
-&nbsp;&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=GbaGuy&style=flat-square&color=blue)
+[![Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,terraform,ansible,githubactions,gitlab,jenkins,bash,py,linux,git&perLine=12)](https://github.com/GbaGuy)
 
-</div>
+<!-- 5 ▸ Stats -->
+## 📈 ~/stats
 
----
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GbaGuy&theme=tokyonight)](https://github.com/GbaGuy)
 
-<div align="center">
+<a href="https://github.com/GbaGuy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GbaGuy&theme=tokyonight" height="190" alt="Stats"/></a>
+<a href="https://github.com/GbaGuy"><img src="https://streak-stats.demolab.com?user=GbaGuy&theme=tokyonight&hide_border=true&border_radius=15" height="190" alt="Streak Stats"/></a>
 
-## 📋 About Me
-
-</div>
-
-- 🔧 **Infrastructure-as-Code** | **Kubernetes** | **Cloud Architecture**
-- ⚡ **CI/CD Pipelines** that ship code safely and rapidly
-- 📊 **Observability** — Metrics, logs, and insights that matter
-- 🛡️ **DevOps Culture** — Building bridges between development and operations
-- 📚 **Currently Learning**: Advanced K8s patterns, eBPF monitoring, cost optimization
-<br />
-
----
-
-<div align="center">
-
-## 💼 What I Do
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🐳 Containers & Orchestration
-- Production-grade K8s clusters
-- Blue-green, canary deployments
-- Helm charts & operators
-
-</td>
-<td width="50%">
-
-### 🔄 CI/CD & Automation
-- Quality gates & security scanning
-- GitHub Actions, GitLab CI, Jenkins
-- Progressive delivery strategies
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📝 Infrastructure as Code
-- Terraform, Ansible, CloudFormation
-- Multi-cloud architecture
-- Reusable modules & frameworks
-
-</td>
-<td width="50%">
-
-### 📊 Observability
-- Prometheus, Grafana, ELK
-- Alert strategies & automation
-- Cost monitoring & optimization
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ☁️ Cloud Platform Engineering
-- AWS expertise (EC2, RDS, Lambda)
-- VPC design & security
-- Disaster recovery & HA
-
-</td>
-<td width="50%">
-
-### 🔐 DevOps & Security
-- Container security scanning
-- Supply chain protection
-- Compliance automation
-
-</td>
-</tr>
-</table>
-
-<br />
-
----
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-</div>
-
-<div align="center">
-
-**🐋 Container & Orchestration**
-
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-
-**☁️ Infrastructure & Cloud**
-
-![Terraform](https://skillicons.dev/icons?i=terraform)
-![Ansible](https://skillicons.dev/icons?i=ansible)
-![AWS](https://skillicons.dev/icons?i=aws)
-
-**🔄 CI/CD & Version Control**
-
-![GitHub](https://skillicons.dev/icons?i=github)
-![GitLab](https://skillicons.dev/icons?i=gitlab)
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
-
-**📈 Monitoring & Observability**
-
-![Prometheus](https://skillicons.dev/icons?i=prometheus)
-![Grafana](https://skillicons.dev/icons?i=grafana)
-
-**💻 Languages & OS**
-
-![Bash](https://skillicons.dev/icons?i=bash)
-![Python](https://skillicons.dev/icons?i=python)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git)
-
-</div>
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-</div>
-
-<details open>
-<summary><b>📈 Click to expand stats</b></summary>
-
-<br />
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**GitHub Stats**
-
-</td>
-<td align="center" width="50%">
-
-**Top Languages**
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-[![Guy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GbaGuy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&line_height=27)](https://github.com/GbaGuy)
-
-</td>
-<td align="center" width="50%">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GbaGuy&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=6)](https://github.com/GbaGuy)
-
-</td>
-</tr>
-</table>
-
-<br />
-
-[![Streak Stats](https://streak-stats.demolab.com?user=GbaGuy&theme=tokyonight&hide_border=true&border_radius=15)](https://github.com/GbaGuy)
-
-</div>
-
-</details>
-
-<br />
-
----
-
-<div align="center">
-
-## 🎯 2025 Priorities
-
-</div>
-
-| Goal | Description |
-|------|-------------|
-| ⚡ **Platform Reliability** | 99.99% uptime, disaster recovery, graceful degradation |
-| 🚀 **Deployment Velocity** | Minutes-level lead time with safe automated releases |
-| 🔧 **Infrastructure Automation** | Zero-manual-toil with comprehensive IaC |
-| 🛠️ **DevOps Tooling** | Reusable patterns, scripts, and frameworks |
-| 🔐 **Security Hardening** | Container scanning, supply chain security, compliance |
-
-<br />
-
----
-
-<div align="center">
-
-## 📈 Contribution Graph
+<a href="https://github.com/GbaGuy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GbaGuy&theme=tokyonight" height="190" alt="Top Languages by Repo"/></a>
+<a href="https://github.com/GbaGuy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GbaGuy&theme=tokyonight" height="190" alt="Top Languages by Commit"/></a>
 
 ![Contribution Graph](https://raw.githubusercontent.com/GbaGuy/GbaGuy/output/pacman-contribution-graph-dark.svg)
 
-</div>
+<!-- 6 ▸ Footer -->
+*automate everything that moves — monitor everything that doesn't* ⚙️
 
-<br />
-
----
-
-<div align="center">
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:16161e&height=120&section=footer)
 
 </div>
