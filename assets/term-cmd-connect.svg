@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="44" viewBox="0 0 900 44">
+  <rect x="0" y="0" width="900" height="44" fill="#1a1b27"/>
+  <line x1="0.5" y1="0" x2="0.5" y2="44" stroke="#3b4261"/>
+  <line x1="899.5" y1="0" x2="899.5" y2="44" stroke="#3b4261"/>
+  <text x="24" y="28" font-family="'Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#9ece6a">$</tspan><tspan fill="#7dcfff"> ./connect.sh</tspan><tspan fill="#e0af68"> --all</tspan></text>
+</svg>

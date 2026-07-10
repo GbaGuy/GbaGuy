@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+  <defs>
+    <linearGradient id="tux" x1="0" y1="50" x2="0" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7dcfff"/>
+      <stop offset="0.5" stop-color="#7aa2f7"/>
+      <stop offset="1" stop-color="#bb9af7"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="420" fill="#1a1b27"/>
+  <line x1="0.5" y1="0" x2="0.5" y2="420" stroke="#3b4261"/>
+  <line x1="899.5" y1="0" x2="899.5" y2="420" stroke="#3b4261"/>
+
+  <g font-family="'Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="13" xml:space="preserve">
+
+    <!-- prompt -->
+    <text x="24" y="32"><tspan fill="#9ece6a">$</tspan><tspan fill="#7dcfff"> neofetch</tspan></text>
+
+    <!-- tux ascii art -->
+    <g fill="url(#tux)" opacity="0">
+      <animate attributeName="opacity" to="1" dur="0.5s" begin="0.15s" fill="freeze"/>
+      <text x="24" y="62">        a8888b.</text>
+      <text x="24" y="81">       d888888b.</text>
+      <text x="24" y="100">       8P"YP"Y88</text>
+      <text x="24" y="119">       8|o||o|88</text>
+      <text x="24" y="138">       8'    .88</text>
+      <text x="24" y="157">       8`._.' Y8.</text>
+      <text x="24" y="176">      d/      `8b.</text>
+      <text x="24" y="195">     dP   .    Y8b.</text>
+      <text x="24" y="214">    d8:'  "  `::88b</text>
+      <text x="24" y="233">   d8"         'Y88b</text>
+      <text x="24" y="252">  :8P    '      :888</text>
+      <text x="24" y="271">   8a.   :     _a88P</text>
+      <text x="24" y="290"> ._/"Yaa_:   .| 88P|</text>
+      <text x="24" y="309"> \    YP"    `| 8P  `.</text>
+      <text x="24" y="328"> /     \.___.d|    .'</text>
+      <text x="24" y="347"> `--..__)8888P`._.'</text>
+    </g>
+
+    <!-- info block -->
+    <g opacity="0">
+      <animate attributeName="opacity" to="1" dur="0.5s" begin="0.5s" fill="freeze"/>
+      <text x="260" y="62"><tspan fill="#9ece6a" font-weight="bold">guy</tspan><tspan fill="#c0caf5">@</tspan><tspan fill="#9ece6a" font-weight="bold">blum</tspan></text>
+      <text x="260" y="82" fill="#565f89">--------</text>
+      <text x="260" y="102"><tspan fill="#7aa2f7" font-weight="bold">Role:</tspan><tspan fill="#c0caf5"> DevOps Engineer · Infrastructure Architect</tspan></text>
+      <text x="260" y="122"><tspan fill="#7aa2f7" font-weight="bold">Focus:</tspan><tspan fill="#c0caf5"> Cloud infra · Automation · Observability · Security</tspan></text>
+      <text x="260" y="142"><tspan fill="#7aa2f7" font-weight="bold">OS:</tspan><tspan fill="#c0caf5"> Linux · Windows</tspan></text>
+      <text x="260" y="162"><tspan fill="#7aa2f7" font-weight="bold">Languages:</tspan><tspan fill="#c0caf5"> Bash · Python · YAML (fluent, unfortunately)</tspan></text>
+      <text x="260" y="182"><tspan fill="#7aa2f7" font-weight="bold">IaC:</tspan><tspan fill="#c0caf5"> Terraform · Ansible</tspan></text>
+      <text x="260" y="202"><tspan fill="#7aa2f7" font-weight="bold">CI/CD:</tspan><tspan fill="#c0caf5"> GitHub Actions · GitLab CI · Jenkins</tspan></text>
+      <text x="260" y="222"><tspan fill="#7aa2f7" font-weight="bold">Platform:</tspan><tspan fill="#c0caf5"> AWS · Docker · Kubernetes · Linux</tspan></text>
+      <text x="260" y="242"><tspan fill="#7aa2f7" font-weight="bold">Email:</tspan><tspan fill="#c0caf5"> blumguy111@gmail.com</tspan></text>
+      <text x="260" y="262"><tspan fill="#7aa2f7" font-weight="bold">LinkedIn:</tspan><tspan fill="#c0caf5"> linkedin.com/in/guyblum</tspan></text>
+      <text x="260" y="282"><tspan fill="#7aa2f7" font-weight="bold">GitHub:</tspan><tspan fill="#c0caf5"> github.com/GbaGuy</tspan></text>
+      <text x="260" y="302"><tspan fill="#bb9af7" font-weight="bold">Reliability:</tspan><tspan fill="#c0caf5"> 99.99% by design — DR &amp; graceful degradation</tspan></text>
+      <text x="260" y="322"><tspan fill="#bb9af7" font-weight="bold">Velocity:</tspan><tspan fill="#c0caf5"> idea → production in minutes, safely</tspan></text>
+      <text x="260" y="342"><tspan fill="#bb9af7" font-weight="bold">Automation:</tspan><tspan fill="#c0caf5"> zero manual toil — everything as code</tspan></text>
+      <text x="260" y="362"><tspan fill="#bb9af7" font-weight="bold">Security:</tspan><tspan fill="#c0caf5"> hardened supply chain · scanned containers</tspan></text>
+    </g>
+
+    <!-- neofetch color blocks -->
+    <g opacity="0">
+      <animate attributeName="opacity" to="1" dur="0.5s" begin="1.0s" fill="freeze"/>
+      <rect x="260" y="376" width="22" height="14" fill="#15161e"/>
+      <rect x="282" y="376" width="22" height="14" fill="#f7768e"/>
+      <rect x="304" y="376" width="22" height="14" fill="#9ece6a"/>
+      <rect x="326" y="376" width="22" height="14" fill="#e0af68"/>
+      <rect x="348" y="376" width="22" height="14" fill="#7aa2f7"/>
+      <rect x="370" y="376" width="22" height="14" fill="#bb9af7"/>
+      <rect x="392" y="376" width="22" height="14" fill="#7dcfff"/>
+      <rect x="414" y="376" width="22" height="14" fill="#a9b1d6"/>
+      <rect x="260" y="390" width="22" height="14" fill="#414868"/>
+      <rect x="282" y="390" width="22" height="14" fill="#ff899d"/>
+      <rect x="304" y="390" width="22" height="14" fill="#b9f27c"/>
+      <rect x="326" y="390" width="22" height="14" fill="#ff9e64"/>
+      <rect x="348" y="390" width="22" height="14" fill="#82aaff"/>
+      <rect x="370" y="390" width="22" height="14" fill="#c7a9ff"/>
+      <rect x="392" y="390" width="22" height="14" fill="#a4daff"/>
+      <rect x="414" y="390" width="22" height="14" fill="#c0caf5"/>
+    </g>
+  </g>
+</svg>
