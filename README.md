@@ -13,11 +13,8 @@
 <img src="./assets/term-cmd-stack.svg" width="900" alt="$ ls ~/stack"/>
 <img src="./assets/term-stack.svg" width="900" alt="Kubernetes, Docker, AWS, Terraform, Ansible, GitHub Actions, GitLab, Jenkins, Bash, Python, Linux, Git"/>
 <img src="./assets/term-cmd-stats.svg" width="900" alt="$ ./stats.sh --github"/>
-<a href="https://github.com/GbaGuy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GbaGuy&theme=tokyonight" alt="Profile details"/></a>
-<a href="https://github.com/GbaGuy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GbaGuy&theme=tokyonight" height="190" alt="Stats"/></a>
-<a href="https://github.com/GbaGuy"><img src="https://streak-stats.demolab.com?user=GbaGuy&theme=tokyonight&hide_border=true&border_radius=15" height="190" alt="Streak stats"/></a>
-<a href="https://github.com/GbaGuy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GbaGuy&theme=tokyonight" height="190" alt="Top languages by repo"/></a>
-<a href="https://github.com/GbaGuy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GbaGuy&theme=tokyonight" height="190" alt="Top languages by commit"/></a>
+<a href="https://github.com/GbaGuy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GbaGuy&theme=tokyonight" width="100%" alt="Profile details"/></a>
+<a href="https://github.com/GbaGuy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GbaGuy&theme=tokyonight" width="33.33%" alt="Stats"/></a><a href="https://github.com/GbaGuy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GbaGuy&theme=tokyonight" width="33.33%" alt="Top languages by repo"/></a><a href="https://github.com/GbaGuy"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GbaGuy&theme=tokyonight" width="33.33%" alt="Top languages by commit"/></a>
 <img src="https://raw.githubusercontent.com/GbaGuy/GbaGuy/output/pacman-contribution-graph-dark.svg" width="900" alt="Pac-Man contribution graph"/>
 <img src="./assets/term-bottom.svg" width="900" alt="$ — automate everything that moves, monitor everything that doesn't"/>
 

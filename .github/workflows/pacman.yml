@@ -22,8 +22,20 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           dark_mode: true
 
-      - name: retheme background to match terminal (Tokyo Night)
-        run: sed -i 's/fill="#0d1117"/fill="#1a1b27"/g' dist/*.svg
+      - name: retheme to match terminal (Tokyo Night)
+        run: |
+          sed -i \
+            -e 's/fill="#0d1117"/fill="#1a1b27"/g' \
+            -e 's/fill="#161b22"/fill="#24283b"/g' \
+            -e 's/fill="#8b949e"/fill="#565f89"/g' \
+            -e 's/fill="#ffffff"/fill="#c0caf5"/g' \
+            -e 's/fill="#0e4429"/fill="#3d59a1"/g' \
+            -e 's/fill="#006d32"/fill="#5272c2"/g' \
+            -e 's/fill="#26a641"/fill="#6a8fe0"/g' \
+            -e 's/fill="#39d353"/fill="#7aa2f7"/g' \
+            dist/*.svg
+          # add the terminal side walls so the frame runs through this row
+          sed -i 's|</svg>|<rect x="0" y="0" width="1" height="100%" fill="#3b4261"/><rect x="100%" y="0" width="1" height="100%" transform="translate(-1,0)" fill="#3b4261"/></svg>|' dist/*.svg
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
