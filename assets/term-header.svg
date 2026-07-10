@@ -1,22 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="576" viewBox="0 0 900 576">
   <defs>
-    <linearGradient id="tux" x1="0" y1="50" x2="0" y2="360" gradientUnits="userSpaceOnUse">
+    <linearGradient id="tux" x1="0" y1="162" x2="0" y2="472" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#7dcfff"/>
       <stop offset="0.5" stop-color="#7aa2f7"/>
       <stop offset="1" stop-color="#bb9af7"/>
     </linearGradient>
   </defs>
 
-  <rect x="0" y="0" width="900" height="420" fill="#1a1b27"/>
-  <line x1="0.5" y1="0" x2="0.5" y2="420" stroke="#3b4261"/>
-  <line x1="899.5" y1="0" x2="899.5" y2="420" stroke="#3b4261"/>
+  <!-- window body: rounded top, open bottom -->
+  <path d="M0.5 576 V13 A12.5 12.5 0 0 1 13 0.5 H887 A12.5 12.5 0 0 1 899.5 13 V576" fill="#1a1b27" stroke="#3b4261"/>
+  <!-- title bar -->
+  <path d="M1 37 V13 A12 12 0 0 1 13 1 H887 A12 12 0 0 1 899 13 V37 Z" fill="#16161e"/>
+  <line x1="1" y1="37" x2="899" y2="37" stroke="#3b4261"/>
+  <circle cx="24" cy="19" r="6" fill="#f7768e"/>
+  <circle cx="44" cy="19" r="6" fill="#e0af68"/>
+  <circle cx="64" cy="19" r="6" fill="#9ece6a"/>
+  <text x="450" y="24" text-anchor="middle" font-family="'Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#565f89">guy@blum: ~</text>
 
-  <g font-family="'Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="13" xml:space="preserve">
+  <!-- rotating taglines -->
+  <g transform="translate(0,52)" font-family="'Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="18" font-weight="600" text-anchor="middle">
+    <g opacity="0">
+      <animate attributeName="opacity" dur="12s" begin="0s" repeatCount="indefinite" keyTimes="0;0.017;0.21;0.25;1" values="0;1;1;0;0"/>
+      <text x="450" y="37" fill="#7aa2f7">Building resilient, cloud-native infrastructure</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" dur="12s" begin="3s" repeatCount="indefinite" keyTimes="0;0.017;0.21;0.25;1" values="0;1;1;0;0"/>
+      <text x="450" y="37" fill="#9ece6a">Everything as Code — Terraform · Ansible · CI/CD</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" dur="12s" begin="6s" repeatCount="indefinite" keyTimes="0;0.017;0.21;0.25;1" values="0;1;1;0;0"/>
+      <text x="450" y="37" fill="#bb9af7">Automate the boring. Monitor the rest.</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" dur="12s" begin="9s" repeatCount="indefinite" keyTimes="0;0.017;0.21;0.25;1" values="0;1;1;0;0"/>
+      <text x="450" y="37" fill="#7dcfff">Chasing 99.99% uptime</text>
+    </g>
+  </g>
 
-    <!-- prompt -->
+  <!-- neofetch -->
+  <g transform="translate(0,112)" font-family="'Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="13" xml:space="preserve">
     <text x="24" y="32"><tspan fill="#9ece6a">$</tspan><tspan fill="#7dcfff"> neofetch</tspan></text>
-
-    <!-- tux ascii art -->
     <g fill="url(#tux)" opacity="0">
       <animate attributeName="opacity" to="1" dur="0.5s" begin="0.15s" fill="freeze"/>
       <text x="24" y="62">        a8888b.</text>
@@ -36,8 +59,6 @@
       <text x="24" y="328"> /     \.___.d|    .'</text>
       <text x="24" y="347"> `--..__)8888P`._.'</text>
     </g>
-
-    <!-- info block -->
     <g opacity="0">
       <animate attributeName="opacity" to="1" dur="0.5s" begin="0.5s" fill="freeze"/>
       <text x="260" y="62"><tspan fill="#9ece6a" font-weight="bold">guy</tspan><tspan fill="#c0caf5">@</tspan><tspan fill="#9ece6a" font-weight="bold">blum</tspan></text>
@@ -57,8 +78,6 @@
       <text x="260" y="342"><tspan fill="#bb9af7" font-weight="bold">Automation:</tspan><tspan fill="#c0caf5"> zero manual toil — everything as code</tspan></text>
       <text x="260" y="362"><tspan fill="#bb9af7" font-weight="bold">Security:</tspan><tspan fill="#c0caf5"> hardened supply chain · scanned containers</tspan></text>
     </g>
-
-    <!-- neofetch color blocks -->
     <g opacity="0">
       <animate attributeName="opacity" to="1" dur="0.5s" begin="1.0s" fill="freeze"/>
       <rect x="260" y="376" width="22" height="14" fill="#15161e"/>
@@ -79,4 +98,7 @@
       <rect x="414" y="390" width="22" height="14" fill="#c0caf5"/>
     </g>
   </g>
+
+  <!-- connect prompt -->
+  <text x="24" y="560" font-family="'Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="13" xml:space="preserve"><tspan fill="#9ece6a">$</tspan><tspan fill="#7dcfff"> ./connect.sh</tspan><tspan fill="#e0af68"> --all</tspan></text>
 </svg>
